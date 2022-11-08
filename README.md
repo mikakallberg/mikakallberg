@@ -11,28 +11,30 @@
 # My Tech Stack 
 
 ### **Frontend**
-
-![HTML5]() ![CSS3]() ![JS]() ![React]() ![JS]()
+#
+![HTML5](/images/html5_logo.svg.png) ![JS](/images/javascript-logo.png) ![React](/images/react-icon.svg.png)
+![CSS3](/images/css3_logo.svg.png) ![Boostrap](/images/bootstrap_logo.svg.png) ![React Boostrap](/images/react_bootstrap.png)
 
 ### **Backend**
-
-![Python]() ![Flask]() ![Jinja]() ![Django]() ![Rest]()
+#
+![Python](/images/python-logo.svg.png) ![Django](/images/django_logo.png) ![Rest](/images/rest_logo.png) ![Flask](/images/flask_logo.svg.png) 
+![Jinja](/images/jinja_logo.png)
 
 ### **Database**
-
-![MongoDB]() ![MySQL]() ![PostgreSQL]()
+#
+![SQLite](/images/sqlite.svg.png) ![PostgreSQL](/images/postgresql_elephant.svg.png)
 
 ### **Version Control**
-
-![GitHub]() ![Gitpod]()
+#
+![GitHub](/images/github_Logo.png)
 
 ### **Development and Deployment**
-
-![Heroku]() ![GitHub]() ![VS Code]()
+#
+![VS Code](/images/visual_studio_code_logo.svg.png) ![GitPod](/images/gitpod_logo.png) ![Heroku](/images/heroku_logo.svg.png)
 
 ### **Learning in progress**
----
-![R]() ![Perl]()
+#
+![R](/images/r_logo.svg.png) ![Perl](/images/perl_language_logo.svg.png)
 
 ### **Future Learning**
 ---
