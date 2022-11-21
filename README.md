@@ -11,54 +11,74 @@
 # My Tech Stack 
 
 ### **Frontend**
-#
-![HTML5](/images/html5_logo.svg.png) ![JS](/images/javascript-logo.png) ![React](/images/react-icon.svg.png)
-![CSS3](/images/css3_logo.svg.png) ![Boostrap](/images/bootstrap_logo.svg.png) ![React Boostrap](/images/react_bootstrap.png)
 
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML logo" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript logo" width="40" height="40" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React logo" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS3 logo" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap logo" width="45" height="45"/>&nbsp;
+<img src="https://res.cloudinary.com/mikakallberg/image/upload/v1669060259/react_bootstrap_tbcl2d.png"  title="ReactBootstrap" alt="ReactBootstrap logo" width="40" height="40"/>&nbsp;
+</div>
+
+#
 ### **Backend**
-#
-![Python](/images/python-logo.svg.png) ![Django](/images/django_logo.png) ![Rest](/images/rest_logo.png) ![Flask](/images/flask_logo.svg.png) 
-![Jinja](/images/jinja_logo.png)
 
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python3" alt="Python3 logo" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" style="background: white" title="Django" alt="Django logo" width="50" height="40" />&nbsp;
+<img src="https://res.cloudinary.com/mikakallberg/image/upload/v1669060638/rest_logo_jqqwh9.png" title="Django Rest" alt="Django rest logo" width="90" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"  style="background: white" title="Flask" alt="Flask logo" width="45" height="45"/>&nbsp;
+</div>
+
+#
 ### **Database**
-#
-![SQLite](/images/sqlite.svg.png) ![PostgreSQL](/images/postgresql_elephant.svg.png)
 
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"  title="SQLite" alt="SQLite logo" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="PostgreSQL logo" width="45" height="45"/>&nbsp;
+</div>
+
+#
 ### **Version Control**
-#
-![GitHub](/images/github_Logo.png)
 
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="background: white" title="GitHub" alt="Octocat" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+</div>
+
+#
 ### **Development and Deployment**
-#
-![VS Code](/images/visual_studio_code_logo.svg.png) ![GitPod](/images/gitpod_logo.png) ![Heroku](/images/heroku_logo.svg.png)
 
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode logo" width="45" height="45"/>&nbsp;
+<img src="https://res.cloudinary.com/mikakallberg/image/upload/v1669061864/gitpod_logo_fgrwvz.png" title="GitPod" alt="GitPod logo" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku logo" width="45" height="45"/>&nbsp;
+</div>
+
+#
 ### **Learning in progress**
+
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" alt="R logo" width="45" height="45"/>&nbsp;
+<img src="https://res.cloudinary.com/mikakallberg/image/upload/v1669062213/perl_language_logo.svg_mkugq7.png" title="Epic Perl" alt="Epic Perl logo" width="45" height="45"/>&nbsp;
+</div>
+
 #
-![R](/images/r_logo.svg.png) ![Perl](/images/perl_language_logo.svg.png)
-
-### **Future Learning**
----
-![]()
-
 ## GitHub Statistics
-
-<p align="center" width="100%">
-    <img width="49%" src="">
-    <img width="49%" src="">
+<p width="100%">
+    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=mikakallberg" alt="(https://github.com/anuraghazra/github-readme-stats">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikakallberg&layout=compact&theme=vision-friendly-dark" alt="(https://github.com/anuraghazra/github-readme-stats">
 </p>
 
-
-# Portfolio Projects
-
-As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Software Development Course. I was required to create five projects with unique code:
-* Insert the projects here?
-
 # Channel lead
+<p> Code Institute has a strong community on the messaging app Slack, where we all students, alumnis and CI-staff help each other in different ways and just hang out and support each other. If you are active in that community and help your fellow students, Code Institute offers you to be lead for a channel during a two month period. During July, November and December I am lead for the Portfolio Project 3 channel, where students create a unique project using the Python.</p> 
 
 # Hackathon Projects
 
-[Code Institute](https://codeinstitute.net/) have monthly hackathon projects where I am working with a small group of fellow developers to produce a themed project in 5 days.
+[Code Institute](https://codeinstitute.net/) have monthly hackathon projects where people can work together in small groups of fellow developers to produce a themed project in 5 days. I look forward to add my own experience here one day.
 
-## Contact me
+#
+## If you wish to contact me
 
-[]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="100" height="100" style="background: white">](www.linkedin.com/in/mikaela-källberg)
