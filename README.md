@@ -80,7 +80,7 @@
 </p>
 
 # Channel lead
-<p> Code Institute has a strong community on the messaging app Slack, where we all students, alumnis and CI-staff help each other in different ways and just hang out and support each other. If you are active in that community and help your fellow students, Code Institute offers you to be lead for a channel during a two month period. During July, November and December I am lead for the Portfolio Project 3 channel, where students create a unique project using the Python.</p> 
+<p> Code Institute has a strong community on the messaging app Slack, where we all students, alumnis and CI-staff help each other in different ways, or just hang out and support each other. If you are active in that community and help your fellow students, Code Institute offers you to be lead for a channel during a two month period. During July, November and December I am lead for the Portfolio Project 3 channel, where students create a unique project using the Python.</p> 
 
 # Hackathon Projects
 
