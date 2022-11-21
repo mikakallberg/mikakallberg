@@ -1,9 +1,11 @@
-![Banner Image]()
+<p style="padding-left: 200px">
+    <img src="images/header_readme.jpeg">
+</p>
 
 # Mikaela Källberg, Junior Software Developer
 
-<p align="center">
-    <img src="">
+<p style="padding-left: 200px">
+    <img src="https://res.cloudinary.com/mikakallberg/image/upload/c_scale,w_500/v1669065437/octocat-1669065176543_kot0bl.png">
 </p>
 
 # About Me
