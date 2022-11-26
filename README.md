@@ -2,7 +2,7 @@
     <img src="images/header_readme.jpeg">
 </p>
 
-# Mikaela Källberg, Junior Software Developer
+# Mikaela Källberg, Junior Software Developer <p>[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50" height="50" style="background: white">](www.linkedin.com/in/mikaela-källberg)</p>
 
 <p style="padding-left: 200px">
     <img src="https://res.cloudinary.com/mikakallberg/image/upload/c_scale,w_500/v1669065437/octocat-1669065176543_kot0bl.png">
@@ -11,8 +11,9 @@
 # About Me
 
 <p> Welcome!</p>
-<p> My name is Mikaela, I'm in the beginning of learning coding/programming/software development, as we say in Sweden "A beloved child has many names". I got my start by taking a 5 day coding challenge with Code Institute <a>https://codeinstitute.net/</a></p>
-<p>I have now finished my last project with them, I chose Advanced Front End as my speciality. However I really enjoy backend work. From what I understand Code Institute is a little bit different from other schools, where students projects has to be their own and has to have something unique that shows they understand what they've done.</p>
+<p> My name is Mikaela</p>
+<p>I have now finished my last project with <a>https://codeinstitute.net/</a>, I chose Advanced Front End as my speciality. However I really enjoy backend work. I got my start by taking a 5 day coding challenge with Code Institute <a>https://codeinstitute.net/</a> 
+<p>From what I understand Code Institute is a little bit different from other schools, where students projects has to be their own and has to have something unique that shows they understand what they've done.</p>
 <p>My future goal is to study Bioinformatics and help further the medical scientific field, hopefully with genetic conditions. As a step in that direction I am now pursuing my Bachelor in Biomedicine. In the mean time I work to develop this craft and hope to find people to work with.</p>
 <p>I hope you'll have a beautiful day!</p>
 
