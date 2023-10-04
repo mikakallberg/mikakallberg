@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React logo" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS3 logo" width="45" height="45"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap logo" width="45" height="45"/>&nbsp;
-<img src="https://res.cloudinary.com/mikakallberg/image/upload/v1669060259/react_bootstrap_tbcl2d.png"  title="ReactBootstrap" alt="ReactBootstrap logo" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"  title="ReactBootstrap" alt="ReactBootstrap logo" width="40" height="40"/>&nbsp;
 </div>
 
 #
@@ -36,7 +36,7 @@
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python3" alt="Python3 logo" width="45" height="45"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" style="background: white" title="Django" alt="Django logo" width="50" height="40" />&nbsp;
-<img src="https://res.cloudinary.com/mikakallberg/image/upload/v1669060638/rest_logo_jqqwh9.png" title="Django Rest" alt="Django rest logo" width="90" height="40"/>&nbsp;
+<img src="https://www.django-rest-framework.org/img/logo.png" title="Django Rest" alt="Django rest logo" width="90" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"  style="background: white" title="Flask" alt="Flask logo" width="45" height="45"/>&nbsp;
 </div>
 
@@ -61,7 +61,7 @@
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode logo" width="45" height="45"/>&nbsp;
-<img src="https://res.cloudinary.com/mikakallberg/image/upload/v1669061864/gitpod_logo_fgrwvz.png" title="GitPod" alt="GitPod logo" width="45" height="45"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/37021919?s=200&v=4" title="GitPod" alt="GitPod logo" width="45" height="45"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku logo" width="45" height="45"/>&nbsp;
 </div>
 
@@ -70,7 +70,8 @@
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" alt="R logo" width="45" height="45"/>&nbsp;
-<img src="https://res.cloudinary.com/mikakallberg/image/upload/v1669062213/perl_language_logo.svg_mkugq7.png" title="Epic Perl" alt="Epic Perl logo" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/perl/perl-original.svg" title="Epic Perl" alt="Epic Perl logo" width="45" height="45"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" title="Amazon smiley" alt="Epic Amazon webservice smiley" width="45" height="45"/>&nbsp;
 </div>
 
 #
@@ -88,6 +89,9 @@
 [Code Institute](https://codeinstitute.net/) have monthly hackathon projects where people can work together in small groups of fellow developers to produce a themed project in 5 days. I look forward to add my own experience here one day.
 
 #
+# Acknowledgements
+Images provided by either each projects GitHub page or by [devicons](https://github.com/devicons). 
+GitHub stats provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats). Thank you so much for making this available to the community!
 ## If you wish to contact me
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="100" height="100" style="background: white">](www.linkedin.com/in/mikaela-källberg)
