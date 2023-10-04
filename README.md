@@ -12,11 +12,12 @@
 
 <p> Welcome!</p>
 <p> My name is Mikaela</p>
-<p>I have now finished my last project with <a>https://codeinstitute.net/</a>, I chose Advanced Front End as my speciality. However I really enjoy backend work. I got my start by taking a 5 day coding challenge with Code Institute <a>https://codeinstitute.net/</a> 
-<p>From what I understand Code Institute is a little bit different from other schools, where students projects has to be their own and has to have something unique that shows they understand what they've done.</p>
-<p>My future goal is to study Bioinformatics and help further the medical scientific field, hopefully with genetic conditions. As a step in that direction I am now pursuing my Bachelor in Biomedicine. In the mean time I work to develop this craft and hope to find people to work with.</p>
+<p>I have now finished my last project with <a href="https://codeinstitute.net/">Code Institute</a> , I chose Advanced Front End as my speciality. However I really enjoy backend work. I got my start by taking a 5 day coding challenge with <a href="https://codeinstitute.net/">Code Institute</a> 
+<p>From what I understand Code Institute is a little bit different from other schools in the same business, Code Institute is credit-rated by The University of the West of Scotland. Which means it is a university level course but without a degree like bachelor.</p>
+
 <p>I hope you'll have a beautiful day!</p>
 
+#
 # My Tech Stack 
 
 ### **Frontend**
